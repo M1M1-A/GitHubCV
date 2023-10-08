@@ -47,7 +47,7 @@ _Quality Assurer_
 
 **Continuous Improvement and Appetite for Learning:**
 
-During my time at Makers Academy, I programmed across two languages, and found myself eager to learn other languages in my spare time. I feel comfortable transitioning between programming languages and maintain a constant curiosity to learn new ones. Deciding to return to full time studying after almost a decade, and recently completing an intensive bootcamp, is a testament to my commitment to learning and adapting. My past roles in Finance demanded staying up-to-date with ever-evolving Regulatory guidance and complex bank processes. As a result, I’m accustomed to quickly acquiring knowledge and practically applying it to achieve tangible results.
+During my time at Makers Academy, I programmed across two languages, and found myself eager to learn other languages in my spare time. I feel comfortable transitioning between programming languages and maintain a constant curiosity to learn new ones. Deciding to return to full time studying after almost a decade, and recently completing an intensive bootcamp, is a testament to my commitment to learning and adapting. My past roles in Finance demanded staying up-to-date with ever-evolving Regulatory guidance and complex Bank processes. As a result, I’m accustomed to quickly acquiring knowledge and practically applying it to achieve tangible results.
 
 **Communication (Written and Verbal):**
 
