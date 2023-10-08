@@ -1,13 +1,14 @@
 ## Amina Begum
 
-As a professional with over ten years experience in Finance, I’m now on an exciting career shift into Software Development. Over the past year, I've honed my coding skills independently and recently completed an intensive Software Development Bootcamp. Coding has sparked a passion in me and has reignited my enthusiasm for learning and continuous improvement. I code consistently, not only within my course but also through personal projects that align with my passions for music, design, and technology. My blend of cross-industry experience, alongside my programming skills, equip me with a unique and versatile set of skills with which to transition into Tech.
+As a professional with over ten years experience in Finance, I'm now on an exciting career shift into Software Development. Over the past year, I've honed my coding skills through independent learning and I've recently completed an intensive Software Development Bootcamp. Coding has sparked a passion in me and has reignited my enthusiasm for learning and continuous improvement. I practice consistently, coding regularly with others and on solo projects that align with my passions for music, design, and technology. My blend of cross-industry experience, alongside my programming skills, equip me with a unique and versatile set of skills with which to transition into Tech.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **StreamSeeker**            | A webapp which allows you search for a movie or TV show and see where you can stream this across your subscriptions. | React, Node.js, Express, MongoDB, Jest, Cypress, TMDB Api. |
-| **Workout Timer** | A workout timer to assist with interval training. It allows you to add rounds of exercise and start a countdown timer for each round | Python, Flask, Pytest, Javascript, React, Node.js               |
+| **Workout Timer** | A workout timer to assist with interval training. It allows you to add rounds of exercise and start a countdown timer for each round. | Python, Flask, Pytest, Javascript, React, Node.js               |
+| **BeatBooker** _(in progress)_           | A tool for DJ's to get bookings and manage their bookings in one place. Allows DJs to create a profile (images, videos, latest mix), which promoters can see and book them through. Provides a dashboard for the DJ's to manage their bookings. | Django, React, Node.js, Python, Javascript |
 
 ## Work Experience
 
@@ -34,7 +35,7 @@ _Quality Assurance Analyst_
 **Momenta Resourcing Solutions** (Jan 16 to Sep 18)  
 _Quality Assurer_
 
-- Quality checked PPI complaints to ensure that customer’s receive a fair offer in line with the requirements of guidelines, policies and standards.
+- Quality checked PPI complaints to ensure that customer’s receive a fair offer in line with the requirements of guidelines, policies and standards
 - Conducted end-to-end outcome testing as a check-the-checker
 - Provided feedback to quality assurers and case handlers, helping them ensure they are compliant
 - Trained and mentored new starters through their training period. Developing their case handling skills and imbedding best practice
@@ -42,27 +43,23 @@ _Quality Assurer_
 - Attended case clinics with subject matter experts to discuss in-house and cross-site consistency and to help improve case handling practices
 - Attended appeals forums to offer knowledge on banks guidance and procedures to ensure fair quality outcomes
 
-## Skills
+## Skills 
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+**Continuous Improvement and Appetite for Learning:**
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+During my time at Makers Academy, I programmed across two languages, and found myself eager to learn other languages in my spare time. I feel comfortable transitioning between programming languages and maintain a constant curiosity to learn new ones. Deciding to return to full time studying after almost a decade, and recently completing an intensive bootcamp, is a testament to my commitment to learning and adapting. My past roles in Finance demanded staying up-to-date with ever-evolving Regulatory guidance and complex bank processes. As a result, I’m accustomed to quickly acquiring knowledge and practically applying it to achieve tangible results.
 
+**Communication (Written and Verbal):**
 
-Here's an example
+I’ve gained a lot of experience interacting with a range of stakeholders which has developed me into a confident communicator. While mentoring as a Quality Assurer, I provided tailored feedback to mentees, supporting their progress and learning. At the Financial Conduct Authority (FCA), I engaged in challenging conversations with senior leaders in Banks, ensuring their compliance with regulatory standards. At Tandem Bank, I authored procedure documents for Quality Assurance, in preparation for the bank's scale-up. Additionally, I confidently delivered presentations to senior teams, communicating data and findings and pitching proposals for improvement. In a previous role as an Adjudicator at the Financial Ombudsman Service, I investigated disputes and used logic and reasoning to reach outcomes and communicate these to customers.
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+**Collaboration and Stakeholder Management:**
 
-#### Another skill
+My experience at Tandem Bank involved close collaboration with teams across Operations, where I successfully gained buy-in for new procedures and embedded the Quality Assurance processes. At Momenta, I was part of a specialised team responsible for resolving high-risk cases. Working closely with my colleagues, we met weekly team targets, each of us handling different aspects of the case work process, necessitating regular updates and communication to deliver results promptly. Together, we successfully resolved all cases within the established deadlines. Additionally, I really enjoy collaborative coding, and recognise that a well-coordinated team can significantly impact the outcome and quality of the end product in software development.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Adaptability, Accountability, and Proactiveness:**
 
-#### Another skill
-
+My adaptability is demonstrated by my experience in transitioning between product areas as a Quality Assurer, where I had to swiftly acquire new processes and guidance to resolve cases and deliver outcomes to customers efficiently. My career change from Finance to Tech reflects my proactive approach to learning, as I began my Tech journey independently, employing various research methods and tools to fuel my learning. At Tandem Bank, I had sole responsibility for redesigning the Quality Assurance process. Despite my initial lack of knowledge about the business and the processes of each department, I formulated a comprehensive plan, shadowed experts, gathered and analysed data, and conducted productive meetings with department heads. With this approach, I successfully redesigned, introduced, and embedded the new Quality process within just six months.
 
 ## Education
 
@@ -75,6 +72,11 @@ I honed my communication skills while completing my thesis at university, which 
 - Developed strong problem-solving and debugging skills, with an emphasis on independent learning and continuous improvement.
 - Gained experience of integrating relational databases into a web application and dealing with HTTP requests and responses.
 - Showcased the ability to swiftly learn and adapt to new programming languages and frameworks
+
+**Other Tech/Tools Used**
+- SQL
+- Postgres
+- Postman
 
 #### Queen Mary University of London (2005 to 2008)
 
