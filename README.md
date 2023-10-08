@@ -27,8 +27,9 @@ _Senior Associate_
 _Quality Assurance Analyst_
 
 - Revised existing policies in line with business growth (writing procedure documents), redesigned quality checking framework and processes, and outlined controls and governance for Quality
+- Worked in an Agile environment, collaborating with departments across the Bank to help iterate and deliver the digital banking app
 - Provided first line Quality Assurance on high-risk areas within Operations; conducted large number of monthly checks on processes to collate and analyse data.
-- Liaised with stakeholders across the business to identify Root Cause on operational process and quality fails, feedback to product design team
+- Liaised with stakeholders across the business to identify Root Cause on operational process and quality fails
 - Proposed and implemented solutions to drive improvement
 - Collated and analysed data, produced statistics and reports and presented findings for review by Senior Management Team
 
