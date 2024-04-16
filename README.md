@@ -6,14 +6,14 @@ As a professional with over ten years experience in Finance, I'm now on an excit
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **BookMe** _(in progress)_  | An app designed for independent DJs to help them get bookings, manage their bookings and streamline their invoicing.              | React Native, Firebase
 | **StreamSeeker**            | A webapp which allows you search for a movie or TV show and see where you can stream this across your subscriptions. | React, Node.js, Express, MongoDB, Jest, Cypress, TMDB Api. |
-| **Workout Timer** | A workout timer to assist with interval training. It allows you to add rounds of exercise and start a countdown timer for each round. | Python, Flask, Pytest, Javascript, React, Node.js               |
-| **BeatBooker** _(in progress)_           | A tool for DJ's to get bookings and manage their bookings in one place. Allows DJs to create a profile (images, videos, latest mix), which promoters can see and book them through. Provides a dashboard for the DJ's to manage their bookings. | Django, React, Node.js, Python, Javascript |
+| **OnTheDoor** | A mobile app to help check-in event guests. Users can upload a csv file of guests (e.g. from Eventbrite), and create an event and all guest info. Users also get a dashboard of event statistics. | React Native, Node.js, Express, MongoDB |
 
 ## Work Experience
 
-**Financial Conduct Authority** (Dec 19 to Sep 20)  
-_Senior Associate_
+**Senior Associate**  
+_Financial Conduct Authority (Dec 19 to Sep 20)_
 
 - Supervised a large retail Bank across three different business entities
 - Monitored the performance of the Bank undertaking redress and remediation exercises
@@ -23,8 +23,8 @@ _Senior Associate_
 - Reviewed Bank's business models, strategy and culture to identify and mitigate the risk of harm to consumers and the market
 - Supervisory lead on engagement with Bank on Financial Crime and Audit functions
 
-**Tandem Bank** (Oct 18 to Aug 19)  
-_Quality Assurance Analyst_
+**Quality Assurance Analyst**  
+_Tandem FinTech Bank (Oct 18 to Aug 19)_
 
 - Revised existing policies in line with business growth (writing procedure documents), redesigned quality checking framework and processes, and outlined controls and governance for Quality
 - Worked in an Agile environment, collaborating with departments across the Bank to help iterate and deliver the digital banking app
@@ -33,8 +33,8 @@ _Quality Assurance Analyst_
 - Proposed and implemented solutions to drive improvement
 - Collated and analysed data, produced statistics and reports and presented findings for review by Senior Management Team
 
-**Momenta Resourcing Solutions** (Jan 16 to Sep 18)  
-_Quality Assurer_
+**Quality Assurer**   
+_Momenta Resourcing Solutions (Jan 16 to Sep 18)_
 
 - Quality checked PPI complaints to ensure that customer’s receive a fair offer in line with the requirements of guidelines, policies and standards
 - Conducted end-to-end outcome testing as a check-the-checker
@@ -46,21 +46,25 @@ _Quality Assurer_
 
 ## Skills 
 
-**Continuous Improvement and Appetite for Learning:**
+**Technical skills and continuous learning:**
 
-During my time at Makers Academy, I programmed across two languages, and found myself eager to learn others in my spare time. I feel comfortable transitioning between programming languages and technologies and maintain a constant curiosity to learn new ones. My decision to return to full time studying after almost a decade, and recently completing an intensive bootcamp, is a testament to my commitment to learning and adapting. My past roles in Finance demanded staying up-to-date with ever-evolving Regulatory guidance and complex Bank processes. As a result, I’m accustomed to quickly acquiring knowledge and practically applying it to achieve tangible results.
+I began coding using HTML, CSS and Javascript to learn the fundamentals. Later I joined Makers Academy where I built software from backend to frontend, while following Test Driven Development throughout. Analysing customer journeys and behaviours has been integral to my previous roles. I used this insight to write effective test scenarios, covering a range of user interactions. Using Cypress and Jest, I maintained thorough test coverage to provide confidence in the robustness of the app. When faced with bugs, I employed effective debugging skills, using all of my resources to resolve issues. This involved using Chrome dev tools, test error messages, console logs, and reading documentation and to get closer to and eliminate the error. 
+
+Since completing Makers, I’ve continued to refine my skills through group and solo projects, attending workshops, and staying abreast of new technologies through independent learning. Deciding to return to full time studying after almost a decade, and recently completing an intensive bootcamp, is a testament to my commitment to learning and adapting. My past roles in Finance demanded staying up-to-date with ever-evolving Regulatory guidance and complex Bank processes. As a result, I’m accustomed to quickly acquiring knowledge and practically applying it to achieve results.
 
 **Communication (Written and Verbal):**
 
-I’ve gained a lot of experience interacting with a range of stakeholders which has developed me into a confident communicator. While mentoring as a Quality Assurer, I provided tailored feedback to mentees, supporting their progress and learning. At the Financial Conduct Authority (FCA), I engaged in challenging conversations with senior leaders in Banks, ensuring their compliance with regulatory standards. At Tandem Bank, I authored procedure documents for Quality Assurance, in preparation for the bank's scale-up. Additionally, I confidently delivered presentations to senior teams, communicating data and findings and pitching proposals for improvement. In a previous role as an Adjudicator at the Financial Ombudsman Service, I investigated disputes and used logic and reasoning to reach outcomes and communicate these to customers.
+I’ve gained a lot of experience interacting with a range of stakeholders which has developed me into a confident communicator. While mentoring as a Quality Assurer (QA), I provided tailored feedback to mentees, supporting their progress and learning. At the Financial Conduct Authority, I engaged in challenging conversations with senior leaders in Banks, ensuring their compliance with regulatory standards. At Tandem Bank, I authored procedure documents for Quality Assurance, in preparation for the bank's scale-up. Additionally, I delivered presentations and training where I communicated complex technical information to a variety of audiences. In a previous role as an Adjudicator at the Financial Ombudsman Service, I investigated disputes and used logic and reasoning to reach outcomes and communicate these to customers.
 
 **Collaboration and Stakeholder Management:**
 
-My experience at Tandem Bank involved close collaboration with teams across Operations, where I successfully gained buy-in for new procedures and embedded the Quality Assurance processes. At Momenta, I was part of a specialised team responsible for resolving high-risk cases. Working closely with my colleagues, we met weekly team targets, each of us handling different aspects of the case work process, necessitating regular updates and communication to deliver results promptly. Together, we successfully resolved all cases within the established deadlines. Additionally, I really enjoy collaborative coding, and recognise that a well-coordinated team can significantly impact the outcome and quality of the end product in software development.
+My experience at Tandem Bank involved close collaboration in cross-functional teams across Operations, where I successfully gained buy-in for new procedures and embedded Quality Assurance processes. At Momenta, I was part of a specialised team responsible for resolving high-risk cases. Working closely with my colleagues, we met weekly team targets, each of us handling different aspects of the case work process, necessitating regular updates and communication to deliver results promptly. Together, we successfully resolved all cases within the established deadlines. Additionally, I really enjoy collaborative coding, and recognise that a well-coordinated team can significantly impact the outcome and quality of the end product in software development.
 
-**Adaptability, Accountability, and Proactiveness:**
+**Adaptability and Proactiveness:**
 
-My adaptability is demonstrated by my experience in transitioning between product areas as a Quality Assurer, where I had to swiftly acquire new processes and guidance to resolve cases and deliver outcomes to customers efficiently. My career change from Finance to Tech reflects my proactive approach to learning, as I began my Tech journey independently, employing various research methods and tools to fuel my learning. At Tandem Bank, I had sole responsibility for redesigning the Quality Assurance process. Despite my initial lack of knowledge about the business and the processes of each department, I formulated a comprehensive plan, shadowed experts, gathered and analysed data, and conducted productive meetings with department heads. With this approach, I successfully redesigned, introduced, and embedded the new Quality process within just six months.
+My adaptability is demonstrated by my experience in transitioning between product areas as a QA, where I had to swiftly comprehend new processes and guidance to resolve cases and deliver outcomes to customers efficiently. At Tandem Bank, I had sole responsibility for redesigning the Quality Assurance process. I’m naturally curious about better ways to do things, and at Tandem I used that curiosity to be proactive about improving processes. I liaised with people across the business, conducted deep dives into systems and practices, and analysed data to identify gaps and improve Operations. 
+
+I’m adept at adapting to changing priorities and do so through great organisation skills. As a QA I managed multiple cases simultaneously, meticulously organising my workflow to ensure each case received proper attention. Despite the varied stages and complexities, I consistently met deadlines and maintained high quality standards in my work. Alongside this, I managed ad-hoc training while also being a technical point of reference for other QA’s. This required effective re-prioritise to deliver in all areas. 
 
 ## Education
 
@@ -74,10 +78,25 @@ My adaptability is demonstrated by my experience in transitioning between produc
 - Gained experience of integrating relational databases into a web application and dealing with HTTP requests and responses.
 - Showcased the ability to swiftly learn and adapt to new programming languages and frameworks
 
-**Other Tech/Tools Used**
-- SQL
-- Postgres
-- Postman
+**Tech/Tools Used**
+- React
+- React Native 
+- Typescript 
+- Javascript 
+- Node.js 
+- HTML/CSS
+- Python
+
+- Jest 
+- Pytest 
+- Cypress 
+- Postgres 
+- MongoDB
+- Git
+- SQL 
+- Express 
+- Flask 
+- Firebase
 
 #### Queen Mary University of London (2005 to 2008)
 
